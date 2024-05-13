@@ -1,0 +1,196 @@
+{
+    "LogIn": [
+        {
+            "email1": "admin@test.com",
+            "password1": "invalidpassword"
+        },
+        {
+            "email2": "admin@test.com",
+            "password2": "11223344"
+        }
+    ],
+    "Company": [
+        {
+            "compname": "Test dd company",
+            "compadds": "123 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "ณัฐชยา เตปันวงศ์",
+            "compphone": "0991112222",
+            "comptax": "1234567890123"
+        },
+        {
+            "compname": "บริษัท ทดสอบ จำกัด",
+            "compadds": "123 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "ณัฐชยา เตปันวงศ์",
+            "compphone": "0991112222",
+            "comptax": "1234567890123"
+        },
+        {
+            "compname": "CMA Company",
+            "compadds": "13 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "ณัฐชยา เตปันวงศ์",
+            "compphone": "0991112222",
+            "comptax": "1234567890123"
+        },
+        {
+            "compname": "A Company",
+            "compadds": "456 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ A",
+            "compphone": "0802221111",
+            "comptax": "9001234567890"
+        },
+        {
+            "compname": "B Company",
+            "compadds": "789 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ B",
+            "compphone": "0812242365",
+            "comptax": "1122211222123"
+        },
+        {
+            "compname": "C Company",
+            "compadds": "33 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ C",
+            "compphone": "0812242000",
+            "comptax": "1122123222123"
+        },
+        {
+            "compname": "D Company",
+            "compadds": "33 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ D",
+            "compphone": "0812242000",
+            "comptax": "1122123222123"
+        },
+        {
+            "compname": "E Company",
+            "compadds": "33 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ E",
+            "compphone": "0812242000",
+            "comptax": "1122123222123"
+        },
+        {
+            "compname": "F Company",
+            "compadds": "33 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ F",
+            "compphone": "0812242000",
+            "comptax": "1122123222123"
+        },
+        {
+            "compname": "G Company",
+            "compadds": "33 ต.ป่าไผ่ อ.สันทราย จ.เชียงใหม่",
+            "persname": "คุณ G",
+            "compphone": "0812242000",
+            "comptax": "1122123222123"
+        }
+    ],
+    "Project": [
+        {
+            "pjname": "TProject1",
+            "pjinitial": "FTP",
+            "startdate": "2024-01-01",
+            "enddate": "2025-01-01",
+            "price": "10000",
+            "startdate2": "2027-01-02",
+            "enddate2": "2028-01-02",
+            "price2": "20000"
+        },
+        {
+            "pjname": "CraftTP",
+            "pjinitial": "CTP",
+            "startdate": "2024-02-02",
+            "enddate": "2025-02-02",
+            "price": "20000",
+            "startdate2": "2026-02-02",
+            "enddate2": "2027-02-02",
+            "price2": "30000"
+        },
+        {
+            "pjname": "TProject3",
+            "pjinitial": "TTP",
+            "startdate": "2024-03-03",
+            "enddate": "2025-03-03",
+            "price": "30000",
+            "startdate2": "2026-03-02",
+            "enddate2": "2027-03-02",
+            "price2": "40000"
+        },
+        {
+            "pjname": "C Project",
+            "pjinitial": "CP",
+            "startdate": "2024-04-04",
+            "enddate": "2025-04-04",
+            "price": "10000",
+            "startdate2": "2027-04-02",
+            "enddate2": "2028-04-02",
+            "price2": "50000"
+        }
+        ,
+        {
+            "pjname": "G Project",
+            "pjinitial": "GP",
+            "startdate": "2024-04-04",
+            "enddate": "2025-04-04",
+            "price": "10000",
+            "startdate2": "2027-04-02",
+            "enddate2": "2028-04-02",
+            "price2": "50000"
+        }
+    ],
+    "Report": [
+        {
+            "title": "หน้าเว็บช้า",
+            "detail": "หน้าเว็บช้า โหลดนาน",
+            "name": "คุณ A",
+            "phonenumber": "0923334444",
+            "lineid": "a-line",
+            "email": "a@gmail.com"
+        },
+        {
+            "title": "รูปไม่โหลด",
+            "detail": "รูปภาพไม่แสดงขึ้นมา",
+            "name": "คุณ B",
+            "phonenumber": "0918889999",
+            "lineid": "Bline",
+            "email": "b@gmail.com"
+        },
+        {
+            "title": "หน้าจอขาว",
+            "detail": "กดปุ่ม A แล้วหน้าจอขาว ไม่สามารเข้าหน้าเว็บได้",
+            "name": "คุณ C",
+            "phonenumber": "0994443333",
+            "lineid": "@cline",
+            "email": "c@gmail.com"
+        },
+        {
+            "title": "ไม่สามารถบันทึกข้อมูลในฟอร์มได้",
+            "detail": "กรอกข้อมูลในฟอร์มแล้วกดบันทึก ข้อมูลไม่แสดงที่ตาราง",
+            "name": "คุณ D",
+            "phonenumber": "0998883333",
+            "lineid": "d-line",
+            "email": "d@gmail.com"
+        },
+        {
+            "title": "เพิ่มรายงานปัญหาไม่ได้",
+            "detail": "กรอกฟอร์มแล้วกดบันทึกไม่ได้ ",
+            "name": "คุณ A",
+            "phonenumber": "0923334444",
+            "lineid": "a-line",
+            "email": "a@gmail.com"
+        },
+        {
+            "title": "แก้ไขข้อมูลไม่ได้",
+            "detail": "แก้ไขรายละเอียดรายงานปัญหาไม่ได้",
+            "name": "คุณ D",
+            "phonenumber": "0998883333",
+            "lineid": "d-line",
+            "email": "d@gmail.com"
+        },
+        {
+            "title": "เข้าหน้ารายงานปัญหาไม่ได้",
+            "detail": "หน้าจอขาว",
+            "name": "คุณ C",
+            "phonenumber": "0994443333",
+            "lineid": "@cline",
+            "email": "c@gmail.com"
+        }
+    ]
+    
+}
